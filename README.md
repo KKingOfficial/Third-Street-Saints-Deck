@@ -5,11 +5,18 @@ A semi-full recolor/reskin for BALATRO
 
 MOD DEPENDENCIES
 [Trance](https://github.com/MathIsFun0/Trance) 
+
 [Steamodded](https://github.com/Steamopollys/Steamodded/wiki)
+
 And any related dependencies for those mods!
+
+
+INSTALLATION
 
 You will need to install these mods first!!! 
 
 Once you have those installed, navigate to your mods folers, and add both the Trance and ThirdStreetSaintsTexturePack to it.
 
 Then, launch and you're ready to go!
+
+![Model](https://i.imgur.com/SsKBwCZ.png)
