@@ -20,3 +20,5 @@ Once you have those installed, navigate to your mods folers, and add both the Tr
 Then, launch and you're ready to go!
 
 ![Model](https://i.imgur.com/SsKBwCZ.png)
+![Model](https://i.imgur.com/llViJs5.png)
+![Model](https://i.imgur.com/S1nXwSm.png)
